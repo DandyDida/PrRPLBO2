@@ -30,3 +30,12 @@ public class Main {
         System.out.println("Lokasi\t\t: " + stnk.getLokasi());
     }
 }
+
+
+STNK :
+package org.example;
+
+
+public class STNK {
+
+}
